@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+gdelt-420506-810460212886.json
 
 # C extensions
 *.so
